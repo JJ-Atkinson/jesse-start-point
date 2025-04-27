@@ -6,3 +6,6 @@ Required programs:
  - Babashka
  - Zprint
 
+Start command:
+
+`bin/launchpad --cider-nrepl`

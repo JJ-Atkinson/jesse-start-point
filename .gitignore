@@ -1,5 +1,9 @@
 resources/public
 node_modules
+.shadow-cljs
+.cpcache
+.clj-kondo/.cache
+.lsp/.cache
 
 *.local
 *.local.*
